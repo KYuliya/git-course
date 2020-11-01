@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.block>div {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: -webkit-linear-gradient(45deg, rgb(56, 229, 190), rgb(82, 82, 182), rgb(242, 208, 242));
+}
